@@ -1,0 +1,13 @@
+﻿global using Azure;
+global using Azure.Data.Tables;
+global using AzureFuncs.ExchangeRatesFunctions.Constants;
+global using AzureFuncs.ExchangeRatesFunctions.Extensions;
+global using AzureFuncs.ExchangeRatesFunctions.Models;
+global using AzureFuncs.ExchangeRatesFunctions.Providers;
+global using AzureFuncs.ExchangeRatesFunctions.Services;
+global using AzureFuncs.ExchangeRatesFunctions.Storage;
+global using Microsoft.Azure.Functions.Worker;
+global using Microsoft.Azure.Functions.Worker.Http;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using System.Net;

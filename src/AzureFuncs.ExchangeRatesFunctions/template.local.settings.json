@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "enter storage account connection string ",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ExchangeRatesAPIAccesskey": "Signup for exchangeratesapi.io and get the API key and enter the API key here"
+  }
+}
+
